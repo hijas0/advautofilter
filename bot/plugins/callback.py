@@ -1300,7 +1300,7 @@ async def callback_data(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "My Dev ⚡", url="https://t.me/AlbertEinstein_TG"
+                        "My Dev ⚡", url="https://t.me/shamilnelli"
                     ),
                     
                 InlineKeyboardButton
@@ -1325,12 +1325,12 @@ async def callback_data(bot, update: CallbackQuery):
         
     elif query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/shamilnelli'),
+            InlineKeyboardButton('Film Group 🎬', url ='https://t.me/movieworldkdy')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Support 👷‍♀️', url='https://t.me/redbullfed')
         ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
+            InlineKeyboardButton('Help 👨‍🔬', callback_data="help")
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1345,10 +1345,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "help":
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('About 🚩', callback_data='about')
+            InlineKeyboardButton('Home 🏠', callback_data='start'),
+            InlineKeyboardButton('About 😌', callback_data='about')
         ],[
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('Close 😑', callback_data='close')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1363,8 +1363,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('Home 🏠', callback_data='start'),
+            InlineKeyboardButton('Close 👨‍🔬', callback_data='close')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
