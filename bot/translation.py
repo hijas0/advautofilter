@@ -26,7 +26,7 @@ For More Details Click Help Button Below..
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/shamilnelli">OFFLINE SHAMIL 🇮🇳</a></i></b>
 
-<b>➥ Support Group</b> : <code>@redbullfed</code>
+<b>➥ Support Group</b> : <i>@redbullfed<i>
 
 <b>➥ Support Help Bot</b> : <i><a href="https://t.me/shamilhelpbot">OFFLINE SHAMIL AI ASSISTANT </a></i>
 
