@@ -86,7 +86,7 @@ async def start(bot, update):
         InlineKeyboardButton('Movie Group 🎬', url ='https://t.me/movieworldkdy')
     ],[
         InlineKeyboardButton('Support 👷', url='https://t.me/shamilhelpbot')
-    ],[
+
         InlineKeyboardButton('Help 🆘', callback_data="help")
     ]]
     
