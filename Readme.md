@@ -1,12 +1,12 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/shamilhabeebnelli/Advautofilter/stargazers">
     <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/shamilhabeebnelli/AdvAutofilter/fork">
     <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -66,9 +66,6 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
-You can deploy this bot anywhere.
-
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
