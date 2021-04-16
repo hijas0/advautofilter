@@ -1,13 +1,13 @@
-# Adv Auto Filter Bot V2
+# Adv Auto Filter 
 
 <p align="center">
   <a href="https://github.com/shamilhabeebnelli/Advautofilter/stargazers">
-    <img src="https://img.shields.io/github/stars/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?style=social">
+    <img src="https://img.shields.io/github/stars/shamilhabeebnelli/AdvAutofilter?style=social">
 
   </a>
   
   <a href="https://github.com/shamilhabeebnelli/AdvAutofilter/fork">
-    <img src="https://img.shields.io/github/forks/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/shamilhabeebnelli/AdvAutofilter?label=Fork&style=social">
 
   </a>  
 </p>
@@ -70,7 +70,7 @@ OR
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/shamilhabeebnelli/AdvAutoFilter/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -79,8 +79,8 @@ OR
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/blob/main
-cd Adv-Auto-Filter-Bot-ReMaster
+git clone https://github.com/shamilhabeebnelli/AdvAutoFilter/tree/blob/main
+cd AdvAutoFilter-ReMaster
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
 python3 -m bot
